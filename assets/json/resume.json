@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tianyi Zhang",
+    "status": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tianyi.zhang@mrl.ethz.ch",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -18,183 +15,116 @@
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "URL": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "ETH Zurich",
       "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "url": "https://ethz.ch",
+      "area": "Multi-modal SLAM",
+      "studyType": "Ph.D.",
+      "startDate": "2025-06-01",
+      "endDate": "now"
+    },
+    {
+      "institution": "ETH Zurich",
+      "location": "Zurich, Switzerland",
+      "url": "https://ethz.ch",
+      "area": "Robotics, Systems and Control",
+      "studyType": "Master of Science",
+      "startDate": "2021-09-20",
+      "endDate": "2025-03-17"
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "location": "Harbin, China",
+      "url": "https://en.hit.edu.cn/",
+      "area": "Automation",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2016-09-01",
+      "endDate": "2020-07-24"
     }
   ],
-  "awards": [
+
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Southern University of Science and Technology (SUSTech)",
+      "position": "Research Assistant",
+      "location": "Shenzhen, China",
       "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "startDate": "2020-09-30",
+      "endDate": "2021-06-30",
+      "summary": [
+        "Assisted in scientific research work related to robotics, including machine learning, computer vision, and path planning.\n",
+        "Conducted research in image-based heuristic path planning algorithms for mobile robots. \n",
+        "Participated in the preparation of ICRA 2021 conference and served as ICRA conference volunteer. \n"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Robust Incremental Structure-from-Motion with Hybrid Features",
+      "publisher": "European Conference on Computer Vision ECCV 2024",
+      "releaseDate": "2024-10-01",
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05311.pdf",
+      "summary": "Shaohui Liu*, Yidan Gao*, Tianyi Zhang*, Rémi Pautrat, Johannes L. Schönberger, Viktor Larsson, Marc Pollefeys"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Generative Adversarial Network based Heuristics for Sampling-based Path Planning",
+      "publisher": "IEEE/CAA Journal of Automatica Sinica",
+      "releaseDate": "2021-01-01",
+      "url": "https://www.ieee-jas.net/article/doi/10.1109/JAS.2021.1004275",
+      "summary": "Tianyi Zhang, Jiankun Wang, Max Q.-H. Meng"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "ROS"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Tools",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "LATEX",
+        "MarkDown",
+        "Git"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+      "name": "Language",
+      "keywords": [
+        "English (Fluent)",
+        "Chinese (Native)"
+      ]
+    }    
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Gaussian Splatting with Geometric Constraints",
+      "summary": "Master Thesis, Supervised by Kunyi Li, Shaohui Liu, Tobias Fischer, Michael Niemeyer, Federico Tombari, Marc Pollefeys",
+      "location": "Zurich, Switzerland",
+      "highlights": [
+        "Developed a novel pose-free Gaussian Splatting approach within the Global Structure-from-Motion framework for sparse view, unposed, unordered images"],
+      "startDate": "2024-06-01",
+      "endDate": "2025-02-25",
+      "url": "https://TianyiZhang-arc.github.io/projects/"
+    },
+    {
+      "name": "Exploiting Uncertainty for Building Enhanced 3D Maps",
+      "summary": "Semester Thesis, Supervised by Shaohui Liu, Marc Pollefeys",
+      "location": "Zurich, Switzerland",
+      "highlights": [
+        "Propagated the uncertainty for point and line mapping through analytical method to filter the degeneracy, identify unstable tracks, and help incorporate heterogeneous assumptions on the 2D observation noise. Developed an uncertainty-aware mechanism in hybrid point-line Structure-from-Motion and demonstrated the effectiveness"],
+      "startDate": "2023-04-11",
+      "endDate": "2023-11-17",
+      "url": "https://TianyiZhang-arc.github.io/projects/"
     }
   ]
 }

@@ -1,34 +1,47 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"liu":
+  - firstname: ["Shaohui", "shaohui", "S."]
+    url: https://www.b1ueber2y.me/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"gao":
+  - firstname: ["Yidan"]
+    url: https://helecomika.github.io/yidangao/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"pautrat":
+  - firstname: ["Remi", "Rémi"]
+    url: https://rpautrat.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"schonberger":
+  - firstname: ["Johannes", "Johannes L"]
+    url: https://demuc.de/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"larsson":
+  - firstname: ["Viktor"]
+    url: https://vlarsson.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"pollefeys":
+  - firstname: ["Marc"]
+    url: https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"meng":
+  - firstname: ["Max Q-H"]
+    url: https://www.sustech.edu.cn/en/faculties/mengqinghu.html
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"wang":
+  - firstname: ["Jiankun"]
+    url: https://jkwang1992.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"li":
+  - firstname: ["Kunyi"]
+    url: https://li-kunyi.github.io/
+
+"fischer":
+  - firstname: ["Tobias"]
+    url: https://tobiasfshr.github.io/
+
+"niemeyer":
+  - firstname: ["Michael", "michael"]
+    url: https://m-niemeyer.github.io/
+
+"tombari":
+  - firstname: ["Federico"]
+    url: https://federicotombari.github.io/
